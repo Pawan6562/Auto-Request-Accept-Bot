@@ -1,1 +1,6 @@
-python-telegram-bot\npymongo\npython-dotenv\nfluent.runtime\nflask\ngunicorn
+python-telegram-bot
+pymongo
+python-dotenv
+fluent.runtime
+flask
+gunicorn
